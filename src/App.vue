@@ -1,5 +1,5 @@
 <template>
-  <div>Hello {{ value }}</div>
+  <div>Hello {{ value }}, hmm, I'm on branch?</div>
 </template>
 
 <script>
